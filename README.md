@@ -56,5 +56,7 @@
 - ★★★ C/C++
 - ★★☆ Python
 - ★★★ Windbg
-- ★★★ Perforce、Git
+- ★★★ Perforce、Git、SVN
+- ★★★ Linux、Windows
+- ★★★ shell
 - ★★★ OS、DataStructure and Algorithm
