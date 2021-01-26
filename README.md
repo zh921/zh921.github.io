@@ -1,2 +1,1 @@
-# zh921.github.io
-blog
+个人博客主页
