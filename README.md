@@ -1,34 +1,34 @@
- <center>
-     <h1>个人简历</h1>
-     <div>
-         <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             186XXXXXXXX
-         </span>
-         ·
-         <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             186XXXXXXXX@163.com
-         </span>
-         ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/zh921">zh921</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="https://zh921.github.io/">My Blog</a>
-         </span>
-     </div>
- </center>
+<center>
+    <h1>个人简历</h1>
+    <div>
+        <span>
+            <img src="assets/phone-solid.svg" width="18px">
+            186XXXXXXXX
+        </span>
+        ·
+        <span>
+            <img src="assets/envelope-solid.svg" width="18px">
+            186XXXXXXXX@163.com
+        </span>
+        ·
+        <span>
+            <img src="assets/github-brands.svg" width="18px">
+            <a href="https://github.com/zh921">zh921</a>
+        </span>
+        ·
+        <span>
+            <img src="assets/rss-solid.svg" width="18px">
+            <a href="https://zh921.github.io/">My Blog</a>
+        </span>
+    </div>
+</center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1995 年出生
- - 求职意向：C++ 研发工程师
- - 工作经验：2 年
- - 期望薪资：25k
+- 男，1995 年出生
+- 求职意向：C++ 研发工程师
+- 工作经验：xx 年
+- 期望薪资：xx k
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
