@@ -1,5 +1,5 @@
 <center>
-    <h1>个人简历</h1>
+    <h1>赵航</h1>
     <div>
         <span>
             <img src="assets/phone-solid.svg" width="18px">
@@ -14,11 +14,6 @@
         <span>
             <img src="assets/github-brands.svg" width="18px">
             <a href="https://github.com/zh921">zh921</a>
-        </span>
-        ·
-        <span>
-            <img src="assets/rss-solid.svg" width="18px">
-            <a href="https://zh921.github.io/">My Blog</a>
         </span>
     </div>
 </center>
