@@ -26,9 +26,9 @@
 ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
 - 男，1995 年出生
-- 求职意向：C++ 研发工程师
+- 求职意向：软件研发工程师
 - 工作经验：2 年
-- 期望薪资：25 k
+- 期望薪资： k
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
@@ -43,9 +43,9 @@
 
    负责 XXX
 
-- **AMD，Windows GPU Kernel Mode Driver，software engineer，2019.7~2021.9**
+- **AMD，Windows Graphics Kernel Mode Driver，software engineer，2019.7至今**
 
-   负责 XXX
+   Windows内核图形驱动开发，
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
